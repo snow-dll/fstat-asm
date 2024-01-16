@@ -1,2 +1,2 @@
 # fstatOwO
-## fstat() syscall wrapper in x86_64 assembly :3
+## x86_64 asm fstat syscall
